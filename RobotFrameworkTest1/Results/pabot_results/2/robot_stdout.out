@@ -1,0 +1,18 @@
+==============================================================================
+Suites                                                                        
+==============================================================================
+Suites.loginsuccesTest                                                        
+==============================================================================
+MyFirstTest                                                           | PASS |
+------------------------------------------------------------------------------
+FisrtSelenuimTest                                                     | PASS |
+------------------------------------------------------------------------------
+Suites.loginsuccesTest                                                | PASS |
+2 critical tests, 2 passed, 0 failed
+2 tests total, 2 passed, 0 failed
+==============================================================================
+Suites                                                                | PASS |
+2 critical tests, 2 passed, 0 failed
+2 tests total, 2 passed, 0 failed
+==============================================================================
+Output:  C:\Users\saber\eclipse-workspace\RobotFrameworkTest1\Results\pabot_results\2\output.xml

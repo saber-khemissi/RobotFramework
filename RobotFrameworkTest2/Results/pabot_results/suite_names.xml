@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.1.2 (Python 3.7.3 on win32)" generated="20200415 19:25:18.373" rpa="false">
+<suite id="s1" name="Suites">
+<suite id="s1-s1" name="GoogleTest" source="C:\Users\saber\eclipse-workspace\RobotFrameworkTest1\Suites\GoogleTest.robot">
+<test id="s1-s1-t1" name="MyFirstTest">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" starttime="20200415 19:25:19.626" endtime="20200415 19:25:19.626"></status>
+</kw>
+<status status="PASS" starttime="20200415 19:25:19.626" endtime="20200415 19:25:19.626" critical="yes"></status>
+</test>
+<test id="s1-s1-t2" name="FisrtSelenuimTest">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" starttime="20200415 19:25:19.626" endtime="20200415 19:25:19.626"></status>
+</kw>
+<status status="PASS" starttime="20200415 19:25:19.626" endtime="20200415 19:25:19.626" critical="yes"></status>
+</test>
+<status status="PASS" starttime="20200415 19:25:18.401" endtime="20200415 19:25:19.626"></status>
+</suite>
+<suite id="s1-s2" name="loginFieledTest" source="C:\Users\saber\eclipse-workspace\RobotFrameworkTest1\Suites\loginFieledTest.robot">
+<test id="s1-s2-t1" name="MyFirstTest">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" starttime="20200415 19:25:19.626" endtime="20200415 19:25:19.626"></status>
+</kw>
+<status status="PASS" starttime="20200415 19:25:19.626" endtime="20200415 19:25:19.626" critical="yes"></status>
+</test>
+<test id="s1-s2-t2" name="FisrtSelenuimTest">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" starttime="20200415 19:25:19.626" endtime="20200415 19:25:19.626"></status>
+</kw>
+<status status="PASS" starttime="20200415 19:25:19.626" endtime="20200415 19:25:19.626" critical="yes"></status>
+</test>
+<status status="PASS" starttime="20200415 19:25:19.626" endtime="20200415 19:25:19.626"></status>
+</suite>
+<suite id="s1-s3" name="loginsuccesTest" source="C:\Users\saber\eclipse-workspace\RobotFrameworkTest1\Suites\loginsuccesTest.robot">
+<test id="s1-s3-t1" name="MyFirstTest">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" starttime="20200415 19:25:19.642" endtime="20200415 19:25:19.642"></status>
+</kw>
+<status status="PASS" starttime="20200415 19:25:19.642" endtime="20200415 19:25:19.642" critical="yes"></status>
+</test>
+<test id="s1-s3-t2" name="FisrtSelenuimTest">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" starttime="20200415 19:25:19.642" endtime="20200415 19:25:19.642"></status>
+</kw>
+<status status="PASS" starttime="20200415 19:25:19.642" endtime="20200415 19:25:19.642" critical="yes"></status>
+</test>
+<status status="PASS" starttime="20200415 19:25:19.642" endtime="20200415 19:25:19.642"></status>
+</suite>
+<status status="PASS" starttime="20200415 19:25:18.375" endtime="20200415 19:25:19.642"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="6" fail="0">Critical Tests</stat>
+<stat pass="6" fail="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="6" fail="0" id="s1" name="Suites">Suites</stat>
+<stat pass="2" fail="0" id="s1-s1" name="GoogleTest">Suites.GoogleTest</stat>
+<stat pass="2" fail="0" id="s1-s2" name="loginFieledTest">Suites.loginFieledTest</stat>
+<stat pass="2" fail="0" id="s1-s3" name="loginsuccesTest">Suites.loginsuccesTest</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

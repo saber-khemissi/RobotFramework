@@ -1,0 +1,7 @@
+datasources:4b918d2dbd2f55000b3b68350205533a7c50a08b
+commandlineoptions:9f8598a690c7367accf83ead504756ddd374acc9
+suitesfrom:no-suites-from-option
+file:2925f6007f133ade31aebc8052af926d491249ec
+--suite Suites.GoogleTest
+--suite Suites.loginFieledTest
+--suite Suites.loginsuccesTest
